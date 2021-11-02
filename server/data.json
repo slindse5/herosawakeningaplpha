@@ -1,0 +1,42 @@
+[
+      {
+        "portrait_src": "/Images/Selection%20Page/lonewolfimage-opacity97v2.png",
+        "birthsign_src": "/Images/Selection%20Page/lonewolfbirthsign-opacity55v2.png",
+        "title": "I do things a bit differently",
+        "quotes": ["Improve your self-confidence", "Carve out your own path", "Take ownership of your life"],
+        "thumbnail_src": "/Images/Selection%20Page/lonewolfbirthsignmini.png",
+        "preview_src": "/Audio/3rd_Door_early_snippet_funny_edit.wav",
+        "name": "Champion",
+        "video_src": "/Videos/Inner Strength video.mp4"
+        },
+        {
+          "portrait_src": "/Images/Selection%20Page/lonewolfimage-opacity97v2.png",
+        "birthsign_src": "/Images/Selection%20Page/lonewolfbirthsign-opacity55v2.png",
+        "title": "I do things a bit differently",
+        "quotes": ["Improve your self-confidence", "Carve out your own path", "Take ownership of your life"],
+        "thumbnail_src": "/Images/Selection%20Page/lonewolfbirthsignmini.png",
+        "preview_src": "/Audio/3rd_Door_early_snippet_funny_edit.wav",
+        "name": "Divinity",
+        "video_src": "/Videos/Inner Strength video.mp4"
+      },
+      {
+        "portrait_src": "/Images/Selection%20Page/lonewolfimage-opacity97v2.png",
+        "birthsign_src": "/Images/Selection%20Page/lonewolfbirthsign-opacity55v2.png",
+        "title": "I do things a bit differently",
+        "quotes": ["Improve your self-confidence", "Carve out your own path", "Take ownership of your life"],
+        "thumbnail_src": "/Images/Selection%20Page/innerstrengthsignmini.png",
+        "preview_src": "/Audio/3rd_Door_early_snippet_funny_edit.wav",
+        "name": "Lone Wolf",
+        "video_src": "/Videos/Inner Strength video.mp4"
+      },
+      {
+        "portrait_src": "/Images/Selection%20Page/lonewolfimage-opacity97v2.png",
+        "birthsign_src": "/Images/Selection%20Page/lonewolfbirthsign-opacity55v2.png",
+        "title": "I do things a bit differently",
+        "quotes": ["Improve your self-confidence", "Carve out your own path", "Take ownership of your life"],
+        "thumbnail_src": "/Images/Selection%20Page/innerstrengthsignmini.png",
+        "preview_src": "/Audio/3rd_Door_early_snippet_funny_edit.wav",
+        "name": "Inner Power",
+        "video_src": "/Videos/Inner Strength video.mp4"
+      }
+]
